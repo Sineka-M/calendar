@@ -69,9 +69,9 @@ function App() {
 
    return (
       <div className="heading-container">
-         <h3>
-            Creating the <i>calendar component</i> from scratch using React JS
-         </h3>
+         <h1>
+            Creating the calendar componen from scratch using React JS
+         </h1>
          <div className="main">
             <div className="header">
                <button onClick={changeToPrevMonth}>{" < "}</button>
